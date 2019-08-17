@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/application/views/scsbyjz_info.php" line="41" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1dec8bc4-9e40-4249-94a3-19caeb9ffa46" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/application/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/config/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/config/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/config/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/controllers/Export.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/Export.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/controllers/QRCode.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/QRCode.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/controllers/operation.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/operation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/controllers/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/user.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/helpers/phpqrcode_helper.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/helpers/phpqrcode_helper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/logs/log-2018-06-19.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/logs/log-2018-06-20.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/logs/log-2018-06-21.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/logs/log-2018-06-22.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/logs/log-2018-06-23.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/logs/log-2018-06-24.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/logs/log-2018-06-25.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/models/gdsc_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/models/gdsc_model.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/bhgpgl_gf_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/bhgpgl_gf_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/bhgpgl_lf_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/bhgpgl_lf_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/cpckgl_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/cpckgl_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/cpgsyjz_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/cpgsyjz_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/customer_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/customer_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/czygl_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/czygl_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/dqsj_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/dqsj_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/eqment_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/eqment_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/fpckgl_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/fpckgl_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/grtz_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/grtz_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/gsbb_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/gsbb_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/include/left_navi.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/include/left_navi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/jzqx_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/jzqx_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/pgd_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/pgd_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/provider_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/provider_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/qxsz_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/qxsz_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/sjpd_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/sjpd_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/staff_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/staff_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/tgx_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/tgx_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/tlck1_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/tlck1_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/tlck2_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/tlck2_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/tproduct_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/tproduct_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/welcome_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/welcome_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/wgjz/left.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/wgjz/left.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/wgjz/middle.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/wgjz/middle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/wgjz_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/wgjz_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/yggsyjz_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/yggsyjz_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/zzpcx/tab1_top.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/zzpcx/tab1_top.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/zzpcx/tab2_top.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/zzpcx/tab2_top.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/zzpcx_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/zzpcx_info.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/lgd_quality_development/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-848901756">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="bhgp" value="1" />
+          <entry key="php" value="7" />
+          <entry key="sql" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="1" />
+          <entry key="PHP" value="7" />
+          <entry key="SQL" value="1" />
+          <entry key="Scratch" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cell" value="1" />
+          <entry key="php" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="6" />
+          <entry key="Scratch" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="gdsc" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/App.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/controllers/user.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="626">
+              <caret line="399" column="47" lean-forward="true" selection-start-line="399" selection-start-column="47" selection-end-line="399" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/application" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/controllers/user.php" />
+        <option value="$PROJECT_DIR$/application/views/scsbyjz_info.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/Chart.js/package.json" />
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/DateJS/package.json" />
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/Flot/package.json" />
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/animate.css/package.json" />
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/autosize/package.json" />
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/bootstrap-daterangepicker/package.json" />
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/bootstrap-progressbar/package.json" />
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/bootstrap-wysiwyg/package.json" />
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/cropper/package.json" />
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/devbridge-autocomplete/package.json" />
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/echarts/package.json" />
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/eve/package.json" />
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/flot-spline/package.json" />
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/ion.rangeSlider/package.json" />
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/jquery-knob/package.json" />
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/jquery.easy-pie-chart/package.json" />
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/jqvmap/package.json" />
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/jszip/package.json" />
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/morris.js/package.json" />
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/select2/package.json" />
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/starrr/package.json" />
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/switchery/package.json" />
+      <path value="$PROJECT_DIR$/lgd_quality_development/views/back/vendors/transitionize/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="140" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gdsc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gdsc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gdsc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gdsc" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gdsc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gdsc" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gdsc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gdsc" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="database.data.extractors.current.id" value="HTML Table" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="bhgpgl_gf_info.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/gdsc/application/views/bhgpgl_gf_info.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.bhgpgl_gf_info.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dec8bc4-9e40-4249-94a3-19caeb9ffa46" name="Default Changelist" comment="" />
+      <created>1540620574815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540620574815</updated>
+      <workItem from="1540620577118" duration="537000" />
+      <workItem from="1540621155722" duration="157000" />
+      <workItem from="1540621351734" duration="446000" />
+      <workItem from="1540621817897" duration="1197000" />
+      <workItem from="1540623041095" duration="132000" />
+      <workItem from="1540623190653" duration="203000" />
+      <workItem from="1540774114177" duration="151000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2823000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="140" y="20" width="1400" height="980" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49834436" visible="true" weight="0.19552238" />
+      <window_info id="Structure" order="1" sideWeight="0.5005549" side_tool="true" weight="0.15464547" />
+      <window_info id="Favorites" order="2" sideWeight="0.50165564" side_tool="true" weight="0.15464547" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49938875" weight="0.32963374" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" sideWeight="0.49755502" weight="0.32963374" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32963374" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.502445" side_tool="true" weight="0.32963374" />
+      <window_info anchor="bottom" id="运行" order="12" />
+      <window_info anchor="bottom" id="调试" order="13" weight="0.3289941" />
+      <window_info anchor="bottom" id="找到" order="14" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.3289941" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.17089552" />
+      <window_info anchor="right" id="数据库" order="4" weight="0.32910448" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/307a3836-eed5-41cf-a8a5-2b9c7935c033/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://307a3836-eed5-41cf-a8a5-2b9c7935c033/schema/gdsc/table/bhgp.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://307a3836-eed5-41cf-a8a5-2b9c7935c033/schema/gdsc/table/bhgp">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/bhgpgl_gf_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="131" column="49" lean-forward="true" selection-start-line="131" selection-start-column="49" selection-end-line="131" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/login0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/scsbyjz_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="60" column="38" lean-forward="true" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#thead#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/App.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="399" column="47" lean-forward="true" selection-start-line="399" selection-start-column="47" selection-end-line="399" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
